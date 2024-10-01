@@ -9,9 +9,6 @@ A modern city skyline built using HTML5 and CSS3. This project demonstrates the 
 * **Modern CSS Techniques**: Utilizes Flexbox, Grid, and CSS variables for layout and design.
 * **Interactive elements**: Hover effects, animations, and more.
 
-### **Preview**
-<!-- Add a screenshot of your project -->
-
 ### **Technologies Used**
 
 1. HTML5
