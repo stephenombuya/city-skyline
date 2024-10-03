@@ -25,7 +25,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
   ```
-  git clone https://github.com/your-username/city-skyline-project.git
+  git clone https://github.com/stephenombuya/city-skyline
   ```
 
 2. Navigate into the project directory:
